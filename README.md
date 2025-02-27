@@ -1,8 +1,9 @@
 # MLX local inference examples
-I am using https://huggingface.co/mlx-community/SmolVLM2-500M-Video-Instruct-mlx SmolVLM for local inference of images and videos.
-This particular model is tuned for macs running M* family of processors thanks to MLX library!
+I am using https://huggingface.co/mlx-community/SmolVLM2-500M-Video-Instruct-mlx SmolVLM2 for local inference of images and videos and Qwen2-VL.
+Those models are tuned for macs running M* family of processors thanks to MLX library and the [MLX Community](https://huggingface.co/mlx-community
+)!
 
-This model is really fast and small, useful to describe images and videos and to make summaries.
+SmolVLM2 model is really fast and small, useful to describe images and videos and to make summaries.
 
 
 ## setup
