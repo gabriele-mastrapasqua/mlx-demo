@@ -2,6 +2,7 @@ from pprint import pprint
 from mlx_vlm import load
 from mlx_vlm.utils import generate
 from mlx_vlm.video_generate import process_vision_info
+#from mlx_vlm.smolvlm_video_generate import generate
 
 import mlx.core as mx
 

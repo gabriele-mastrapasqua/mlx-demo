@@ -5,9 +5,10 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = "==3.10.*"
 dependencies = [
-  "mlx-vlm == 0.1.14",
+  "mlx-vlm @ git+https://github.com/pcuenca/mlx-vlm.git@smolvlm",
   "transformers @ git+https://github.com/huggingface/transformers@v4.49.0-SmolVLM-2-release",
   "torch == 2.6.0",
-  "num2words == 0.5.14"
+  "num2words == 0.5.14",
+  "pyav>=14.2.1",
 ]
 
