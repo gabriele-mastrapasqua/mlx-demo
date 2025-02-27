@@ -81,4 +81,5 @@ Really nice!
 
 - You can run this from a script 
 ```bash 
-uv run video_smolVLM.py```
+uv run video_smolVLM.py
+```
